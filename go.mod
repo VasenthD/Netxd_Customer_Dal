@@ -1,4 +1,4 @@
-module Netxd_project
+module github.com/VasenthD/Netxd_Customer_Dal
 
 go 1.20
 

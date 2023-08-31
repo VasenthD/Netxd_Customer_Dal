@@ -1,12 +1,11 @@
 package Services
 
 import (
-	interfaces "Netxd_project/Netxd_Cusotmer_Interfaces"
-	models "Netxd_project/Netxd_Customer_Models"
-
 	"context"
 	"time"
 
+	interfaces "github.com/VasenthD/Netxd_Customer_Dal/Netxd_Cusotmer_Interfaces"
+	models "github.com/VasenthD/Netxd_Customer_Dal/Netxd_Customer_Models"
 	"go.mongodb.org/mongo-driver/mongo"
 )
 
